@@ -40,8 +40,6 @@ Life Cycle of the request/response in Rails:
 
 6. The view takes the objects from the controller and sends a response to the user.
 
-Let's take a look at some rails code.
-
 ## Intro to HTTP and REST
 
 ### HTTP
