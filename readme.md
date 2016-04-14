@@ -1,4 +1,4 @@
-# MVC - Intro to Rails
+# Porting Sinatra Apps To Rails
 
 ## Learning Objectives
 - Explain what Ruby on Rails is and it's architectural components (rMVC)
