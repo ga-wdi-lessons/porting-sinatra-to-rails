@@ -32,9 +32,9 @@ Life Cycle of the request/response in Rails:
 
 3. The application then either doesn't recognize the route (error) or it does recognize it(route) and sends it to a controller.
 
-4. Once the request hits the controller, it's then going to employ a model (which will be using ActiveRecord in our case).
+4. Once the request hits the controller, it's then going to designate a model to deal with the database. Our models will be using ActiveRecord in our case.
 
-5. The model, using ActiveRecord, will be used by the controller to generate  an ActiveRecord object to query the database  for the information specified in the controller. The ActiveRecord object then stores the results of the query.
+5. The model, using ActiveRecord, will be used by the controller to generate  an ActiveRecord object to query the database for the information specified in the controller. The ActiveRecord object then stores the results of the query.
 
 
 6. The ActiveRecord object then returns all the data it so helpfully grabbed from the database to the controller.
