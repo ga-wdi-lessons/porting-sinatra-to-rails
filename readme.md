@@ -310,4 +310,4 @@ Run rails server and test out your site. It's not all too much different from Si
 ## Closing(5/150)
 Review LO's
 
-## [HW: Getting Started with Rails, Chapters 1 - 5](http://guides.rubyonrails.org/getting_started.html)
+## [HW: Getting Started with Rails, Chapters 1 - 5](https://github.com/ga-wdi-exercises/rails_getting_started)
