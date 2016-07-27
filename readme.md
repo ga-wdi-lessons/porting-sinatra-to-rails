@@ -302,8 +302,12 @@ and inside `config/application.rb`
 config.action_controller.permit_all_parameters = true
 ```
 
+> Evil security risk!!! Why is permitting all parameters dangerous?
+
 ### Run rails server
-Run rails server and test out your site. It's not all too much different from Sinatra. Except it splits the conerns of routing from controllers, and makes assumptions about what your files are called.
+Run rails server and test out your site. It's not all too much different from Sinatra. Except it splits the concerns of routing from controllers, and makes assumptions about what your files are called.
 
 ## Closing(5/150)
 Review LO's
+
+## [HW: Getting Started with Rails, Chapters 1 - 5](http://guides.rubyonrails.org/getting_started.html)
